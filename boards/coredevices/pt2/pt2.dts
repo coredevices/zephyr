@@ -66,7 +66,7 @@
 };
 
 &cpu0 {
-	clock-frequency = <DT_FREQ_M(240)>;
+	clock-frequency = <DT_FREQ_M(144)>;
 };
 
 &dmac {
@@ -202,7 +202,7 @@
 
 	dll1 {
 		status = "okay";
-		clock-frequency = <DT_FREQ_M(240)>;
+		clock-frequency = <DT_FREQ_M(144)>;
 	};
 };
 
